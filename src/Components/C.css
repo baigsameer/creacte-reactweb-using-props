@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    color: azure;
+
+}
+.container{
+    height: 60vh;
+    width: 60vh;
+    border: 2px solid gray;
+    
+   
+}
+.img{
+    width: 100%;
+}
+.p{
+   color: black;
+   width: 100%;
+
+}
+button{
+    background-color: rgb(66, 116, 116);
+    border: 2px solid black;
+    color: azure
+}
+.button{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+.para{
+    text-align: center;
+}
